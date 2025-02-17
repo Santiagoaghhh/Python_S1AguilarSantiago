@@ -18,6 +18,6 @@ Para ejecutar este programa es necesario tener algún intérprete de Python inst
 Para ejecutar este programa desde la terminal, se usa el comando `cd ../Ruta/` y una vez dentro del directorio, ejecutar mediante `python3 main`
 
 >[!WARNING]
->Este trabajo solo contiene python
+>Este trabajo solo contiene código python
 
 ![Python](https://programacionfacil.org/blog/wp-content/uploads/2022/07/curso-python.png)
